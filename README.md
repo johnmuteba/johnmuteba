@@ -3,7 +3,7 @@
 
 # John Weirstrass **MUTEBA**
 
-**Professor & Researcher — Health Policy × Data Science × AI**
+**Professor & Researcher — Financial Economics × Health Informatics × Data Science × AI**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8002--1156-green)](https://orcid.org/0000-0002-8002-1156)
 [![Website](https://img.shields.io/badge/Website-analyticsresearch-blue)](https://moi175.wixsite.com/analyticsresearch)
