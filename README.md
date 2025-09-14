@@ -12,10 +12,10 @@
 </div>
 
 ## 👋 About
-I work at the intersection of  **financial economics**, **health policy**, **statistical/ML methods**, and **AI**.  
+I work at the intersection of  **financial economics**, **health informatics**, **statistical/ML methods**, and **AI**.  
 Current interests include **agentic RAG** (privacy-preserving, local), **survival analysis** for clinical outcomes, and practical tooling for teaching & research.
 
-- 🔬 *Research themes*: AI applications in financial economics, RAG & transformers, survival models (Cox/AFT), health equity analytics  
+- 🔬 *Research themes*: AI applications in financial economics, RAG & transformers, survival models (Cox/AFT), health informatics -decision support systems  
 - 🧑‍🏫 *Teaching*: Python for data science, ML, portfolio theory & risk management  
 - 🌐 *Website*: <https://moi175.wixsite.com/analyticsresearch>  
 - 🆔 *ORCID*: <https://orcid.org/0000-0002-8002-1156>
