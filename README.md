@@ -12,7 +12,7 @@
 </div>
 
 ## 👋 About
-I work at the intersection of **health policy**, **statistical/ML methods**, and **AI**.  
+I work at the intersection of  **financial economics**, **health policy**, **statistical/ML methods**, and **AI**.  
 Current interests include **agentic RAG** (privacy-preserving, local), **survival analysis** for clinical outcomes, and practical tooling for teaching & research.
 
 - 🔬 *Research themes*: RAG & transformers, survival models (Cox/AFT), health equity analytics  
