@@ -48,7 +48,7 @@ Current interests include **agentic RAG** (privacy-preserving, local), **surviva
   A. Kabundi, J.W. Muteba Mwamba.  
   <https://www.researchgate.net/publication/267854782_Extreme_value_at_risk_A_scenario_for_risk_management>
 
-> *If you’d like a richer publications list or BibTeX, open an issue on this repo.*
+
 
 ## 🧰 Tech Stack
 **Python**, PyTorch, scikit-learn, Transformers, RAG, Survival Analysis, Pandas, NumPy, VS Code, GitHub CLI (`gh`)
@@ -60,7 +60,6 @@ Current interests include **agentic RAG** (privacy-preserving, local), **surviva
 
 ## 📫 Contact
 For inquiries, please use GitHub issues on pinned repos or the contact form on my website.  
-*(Tip: set your GitHub **noreply** email in settings to keep your personal address private.)*
 
 ---
 
