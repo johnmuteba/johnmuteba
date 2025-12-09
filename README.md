@@ -8,6 +8,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8002--1156-green)](https://orcid.org/0000-0002-8002-1156)
 [![Website](https://img.shields.io/badge/Website-analyticsresearch-blue)](https://moi175.wixsite.com/analyticsresearch)
 [![GitHub followers](https://img.shields.io/github/followers/johnmuteba?style=social)](https://github.com/johnmuteba)
+- 🎓 *Google Scholar*: <https://scholar.google.com/citations?user=HmVumxMAAAAJ&hl=en>
 
 </div>
 
