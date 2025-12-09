@@ -10,8 +10,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/johnmuteba?style=social)](https://github.com/johnmuteba)
 - 🎓 *Google Scholar*: <https://scholar.google.com/citations?user=HmVumxMAAAAJ&hl=en>
 ## 👋 About
-I work at the intersection of  **financial economics**, **health informatics**, **statistical/ML methods**, and **AI**.  
-Current interests include **agentic RAG** (privacy-preserving, local), **survival analysis** for clinical outcomes, and practical tooling for teaching & research.
+
 
 - 🔬 *Research themes*: AI applications in financial economics, RAG & transformers, survival models (Cox/AFT), health informatics -decision support systems  
 - 🧑‍🏫 *Teaching*: Python for data science, ML, portfolio theory & risk management  
