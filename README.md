@@ -9,14 +9,12 @@
 [![Website](https://img.shields.io/badge/Website-analyticsresearch-blue)](https://moi175.wixsite.com/analyticsresearch)
 [![GitHub followers](https://img.shields.io/github/followers/johnmuteba?style=social)](https://github.com/johnmuteba)
 - 🎓 *Google Scholar*: <https://scholar.google.com/citations?user=HmVumxMAAAAJ&hl=en>
-## 👋 About
 
 
-- 🔬 *Research themes*: AI applications in financial economics, RAG & transformers, survival models (Cox/AFT), health informatics -decision support systems  
-- 🧑‍🏫 *Teaching*: Python for data science, ML, portfolio theory & risk management  
-- 🌐 *Website*: <https://moi175.wixsite.com/analyticsresearch>
-- 🆔 *ORCID*: <https://orcid.org/0000-0002-8002-1156>
-- 🎓 *Google Scholar*: <https://scholar.google.com/citations?user=HmVumxMAAAAJ&hl=en>
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8002--1156-green)](https://orcid.org/0000-0002-8002-1156)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=HmVumxMAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Website-analyticsresearch-blue)](https://moi175.wixsite.com/analyticsresearch)
+[![GitHub followers](https://img.shields.io/github/followers/johnmuteba?style=social)](https://github.com/johnmuteba)
 
 </div>
 
