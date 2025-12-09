@@ -27,6 +27,39 @@ Current interests include **agentic RAG** (privacy-preserving, local), **surviva
 
 ## 🧾 Selected Publications
 *(A small representative set — see ORCID for more.)*
+- **Navigating Uncertainty in an Emerging Market: Data-Centric Portfolio Strategies and Systemic Risk Assessment in the Johannesburg Stock Exchange**  
+  *International Journal of Financial Studies*, 13(1), 32, 2025.  
+  Mwamba, J.W.M., Mba, J.C., & Kitenge, A.K.  
+  DOI: [10.3390/ijfs13010032](https://doi.org/10.3390/ijfs13010032)
+
+- **Dynamic Portfolio Optimization with Diversification Analysis and Asset Selection Amidst High Correlation Using Cryptocurrencies and Bank Equities**  
+  *Risks*, 13(6), 113, 2025.  
+  Ntare, H.B., Muteba Mwamba, J.W., & Adekambi, F.  
+  DOI: [10.3390/risks13060113](https://doi.org/10.3390/risks13060113)
+
+- **Asymmetric Volatility Spillovers in Varying Market Conditions and Portfolio Performance Analysis of the South African Foreign Exchange Market**  
+  *Economies*, 13(8), 232, 2025.  
+  Ntare, H.B., Muteba Mwamba, J.W., & Adekambi, F.  
+  DOI: [10.3390/economies13080232](https://doi.org/10.3390/economies13080232)
+
+- **Dynamic Correlation and Hedging Ability of Precious Metals in Pre- and Post-COVID Periods**  
+  *Cogent Economics & Finance*, 12(1), 2382375, 2024.  
+  Ntare, H.B., Muteba Mwamba, J.W., & Adekambi, F.  
+  DOI: [10.1080/23322039.2024.2382375](https://doi.org/10.1080/23322039.2024.2382375)
+
+### 🤖 AI, LLMs & text-based finance
+
+- **Enhancing Portfolio Optimization with Multi-LLM Sentiment Aggregation: A Black-Litterman Integration Approach**  
+  *Investment Management and Financial Innovations*, 22(3), 213–226, 2025.  
+  Mantshimuli, L.A., & Muteba Mwamba, J.W.  
+  DOI: [10.21511/imfi.22(3).2025.16](https://doi.org/10.21511/imfi.22(3).2025.16)
+
+### 🌍 FX microstructure & international payments
+
+- **Timing optimal des paiements internationaux selon les marchés asiatique, européen et nord-américain : cas de la RD Congo / Optimal Timing of International Payments Across Asian, European and North American Markets: The Case of DR Congo**  
+  *European Journal of Economic and Financial Research*, 8(8), 2025.  
+  Sebigunda, E.N., & Muteba Mwamba, J.W.  
+  DOI: [10.46827/ejefr.v8i8.1939](https://doi.org/10.46827/ejefr.v8i8.1939)
 
 - **Does Economic Inequality Account for Cross-Country Discrepancies in Relative Social Mobility?** *Economies* (2022).  
   J.W. Muteba Mwamba, P.M. Shiwamya, B.M. Mudiangombe.  
