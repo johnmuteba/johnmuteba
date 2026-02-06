@@ -30,6 +30,7 @@ Current interests include **agentic RAG** (privacy-preserving, local), **surviva
 ## 🧾 Selected Publications
 *(A small representative set — see ORCID for more.)*
 - **Asymmetric Shocks and Sectoral Resilience: Analysing JSE Performance under Oil Price Volatility during Dual Crises.**
+  
   *Finance Research Open*, 2(1), 100092, 2026.
   
   BM Mudiangombe, and JW Muteba  Mwamba.
