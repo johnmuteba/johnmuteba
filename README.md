@@ -31,8 +31,8 @@ Current interests include **agentic RAG** (privacy-preserving, local), **surviva
 *(A small representative set — see ORCID for more.)*
 - **Asymmetric Shocks and Sectoral Resilience: Analysing JSE Performance under Oil Price Volatility during Dual Crises.**
   *Finance Research Open*, 2(1), 100092, 2026
-  BM Mudiangombe, and JW Muteba  Mwamba
-  DOI: (https://doi.org/10.1016/j.finr.2026.100092)
+  BM Mudiangombe, and JW Muteba  Mwamba. 
+  DOI: https://doi.org/10.1016/j.finr.2026.100092
 - **Navigating Uncertainty in an Emerging Market: Data-Centric Portfolio Strategies and Systemic Risk Assessment in the Johannesburg Stock Exchange**  
   *International Journal of Financial Studies*, 13(1), 32, 2025.  
   Mwamba, J.W.M., Mba, J.C., & Kitenge, A.K.  
