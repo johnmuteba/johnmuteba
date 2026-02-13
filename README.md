@@ -22,9 +22,9 @@ Current interests include **agentic RAG** (privacy-preserving, local), **surviva
 - 🆔 *ORCID*: <https://orcid.org/0000-0002-8002-1156>
 - 🌐 *Google Scholar*: <https://scholar.google.com/citations?user=HmVumxMAAAAJ&hl=en>
 ## 🌟 Featured Projects
-- **EquiMed-DSS** — a novel tri-corpus framework for  evaluation of decision support systems in healthcare using novel metrics and advanced statistical analyses (hierarchical, mediation, and network analyses) 
-- **Optimal Hospital Ressources Allocation** — the first integrated, two-stage stochastic programming framework that jointly optimizes hospital beds, nursing, and physician staffing.  
-- **Stochastic Prediction of Patient State Path** — developing a Theory of Clinical State Trajectories to model patient health dynamics from clinical notes as a text-inferred stochastic jump-diffusion process.
+- **EquiMed-DSS** - a novel tri-corpus framework for  evaluation of decision support systems in healthcare using novel metrics and advanced statistical analyses (hierarchical, mediation, and network analyses) 
+- **Optimal Hospital Ressources Allocation** - the first integrated, two-stage stochastic programming framework that jointly optimizes hospital beds, nursing, and physician staffing.  
+- **Stochastic Prediction of Patient State Path** - developing a Theory of Clinical State Trajectories to model patient health dynamics from clinical notes as a text-inferred stochastic jump-diffusion process.
 - **Topological-Dual-Branch Reinforcement Learning** - A new framework to synthesize Topological Data Analysis, Extreme Value Theory, Time Series Embeddings, and Machine Learning (Cross-Attention Architectures) into a unified system for portfolio management. 
 
 ## 🧾 Selected Publications
