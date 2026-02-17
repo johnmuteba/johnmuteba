@@ -65,11 +65,6 @@ Current interests include **agentic RAG** (privacy-preserving, local), **surviva
 
 ### 🌍 FX microstructure & international payments
 
-- **Timing optimal des paiements internationaux selon les marchés asiatique, européen et nord-américain : cas de la RD Congo / Optimal Timing of International Payments Across Asian, European and North American Markets: The Case of DR Congo**  
-  *European Journal of Economic and Financial Research*, 8(8), 2025.  
-  Sebigunda, E.N., & Muteba Mwamba, J.W.  
-  DOI: [10.46827/ejefr.v8i8.1939](https://doi.org/10.46827/ejefr.v8i8.1939)
-
 - **Does Economic Inequality Account for Cross-Country Discrepancies in Relative Social Mobility?** *Economies* (2022).  
   J.W. Muteba Mwamba, P.M. Shiwamya, B.M. Mudiangombe.  
   <https://doi.org/10.3390/economies10110279>
